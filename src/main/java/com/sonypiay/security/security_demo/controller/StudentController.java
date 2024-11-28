@@ -1,4 +1,4 @@
-package com.sonypiay.security.security_demo;
+package com.sonypiay.security.security_demo.controller;
 
 import com.sonypiay.security.security_demo.model.Student;
 import jakarta.servlet.http.HttpServletRequest;
